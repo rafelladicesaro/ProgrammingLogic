@@ -1,0 +1,15 @@
+/workspaces/ProgrammingLogic/Lab7--use-program-main/bin/Debug/net8.0/Lab7--use-program-main
+/workspaces/ProgrammingLogic/Lab7--use-program-main/bin/Debug/net8.0/Lab7--use-program-main.deps.json
+/workspaces/ProgrammingLogic/Lab7--use-program-main/bin/Debug/net8.0/Lab7--use-program-main.runtimeconfig.json
+/workspaces/ProgrammingLogic/Lab7--use-program-main/bin/Debug/net8.0/Lab7--use-program-main.dll
+/workspaces/ProgrammingLogic/Lab7--use-program-main/bin/Debug/net8.0/Lab7--use-program-main.pdb
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/Lab7--use-program-main.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/Lab7--use-program-main.AssemblyInfoInputs.cache
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/Lab7--use-program-main.AssemblyInfo.cs
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/Lab7--use-program-main.csproj.CoreCompileInputs.cache
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/Lab7--use-program-main.sourcelink.json
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/Lab7--use-program-main.dll
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/refint/Lab7--use-program-main.dll
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/Lab7--use-program-main.pdb
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/Lab7--use-program-main.genruntimeconfig.cache
+/workspaces/ProgrammingLogic/Lab7--use-program-main/obj/Debug/net8.0/ref/Lab7--use-program-main.dll
